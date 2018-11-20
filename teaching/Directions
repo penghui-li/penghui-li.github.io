@@ -1,0 +1,9 @@
+
+
+git status
+
+git add .
+
+git commit -m "Message about the modifications"
+
+git push origin master
